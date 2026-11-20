@@ -16,6 +16,9 @@ This project explores how an AI-assisted workflow can support the initial compla
 * Identify sentiment and summarize the complaint.
 * Flag cases that require human review.
 * Reduce repetitive manual classification work.
+## Workflow Diagram
+
+![Customer Complaint Classification Workflow](workflow-diagram.png)
 
 ## 3. Workflow Process
 
